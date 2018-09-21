@@ -14,6 +14,6 @@ If you haven't heard, Storybook is one of the hottest new tools for building an 
 
 ## Resources
 
-*   [Slides]
-*   [Demo Code]
-*   [Recording]
+*   [Slides](https://github.com/VueDC/storybook-and-storyshot-testing-with-vuejs/blob/master/slides.pdf)
+*   [Demo Code](https://github.com/TraceyHolinka/storybook-and-storyshot-testing-with-vuejs)
+*   [Recording] Coming Soon
